@@ -1,0 +1,11 @@
+product_id,name,brand,category,price,long_description,reviews_text,faqs_text
+P001,Redmi Note 13 Pro,Xiaomi,Smartphone,18999,"200MP camera, 5000mAh battery","Great camera but slight heating","Does it support 5G? Yes"
+P002,Boat Rockerz 255,Boat,Audio,999,"Bluetooth earphones, 40hr battery","Comfortable fit","Does it have mic? Yes"
+P003,Samsung Galaxy A34,Samsung,Smartphone,24999,"AMOLED display, OIS camera","Good battery and camera performance","Is it waterproof? Yes, IP67"
+P004,OnePlus Bullets Wireless Z2,OnePlus,Audio,1699,"Fast charging, clear sound","Bass is strong","Does it support fast charge? Yes"
+P005,HP 15s Laptop,HP,Laptop,45999,"i5 12th Gen, 8GB RAM, SSD","Smooth performance for daily use","Can RAM be upgraded? Yes"
+P006,Lenovo IdeaPad Slim 3,Lenovo,Laptop,39999,"i3 11th Gen, FHD Display","Lightweight and portable","Does it have backlit keyboard? No"
+P007,Apple AirPods 3,Apple,Audio,17999,"Spatial audio, wireless charging","Excellent sound quality","Is it compatible with Android? Yes, but limited features"
+P08,Mi Band 7,Xiaomi,Wearable,3499,"AMOLED display, 120+ fitness modes","Accurate tracking","Is strap replaceable? Yes"
+P009,Noise ColorFit Pulse,Noise,Wearable,1499,"Heart rate monitor, sleep tracking","Value for money","Is it waterproof? Yes, IP68"
+P010,Realme Buds T300,Realme,Audio,2299,"Active Noise Cancellation, long battery","Great ANC for the price","Can we use single earbud? Yes"
