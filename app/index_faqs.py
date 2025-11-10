@@ -22,4 +22,4 @@ for _, row in df.iterrows():
         embeddings=[emb]
     )
 
-print("✅ FAQs indexed successfully")
+print("FAQs indexed successfully")

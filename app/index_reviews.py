@@ -21,4 +21,4 @@ for _, row in df.iterrows():
         metadatas=[{"product_id": row["product_id"]}]
     , embeddings=[emb])
 
-print("✅ Reviews indexed successfully")
+print("Reviews indexed successfully")

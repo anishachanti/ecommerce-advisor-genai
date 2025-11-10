@@ -27,4 +27,4 @@ for _, row in df.iterrows():
         embeddings=[emb]
     )
 
-print("✅ Products indexed successfully")
+print("Products indexed successfully")
